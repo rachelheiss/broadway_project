@@ -18,14 +18,21 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "1 + 1\n\n[1] 2\n\n\nnow it works"
+    "text": "Hello there! My name is Rachel Heiss, and I’m a home-schooled sophomore in high school. I made this as the final project for Kane’s Free High School Data Science Bootcamp, which was an intensive and very helpful course. I learned everything I needed to know for this project in 3 weeks and then took about a week to make it. I took a while brainstorming what to do for this project and bounced between a few different options, but since I’ve always loved musicals and plays I decided to look at Broadway ticket prices and the fullness of theatres over a 37-year period to see how Broadway has changed from 1985 to present-day."
+  },
+  {
+    "objectID": "about.html#my-info",
+    "href": "about.html#my-info",
+    "title": "About",
+    "section": "My Info",
+    "text": "My Info\n\nGitHub: rachelheiss\n\nAll code for this project here\n\nEmail: rachelheiss@gmail.com\nPersonal Website: rachelheiss.me (work in progress)"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "These Prices are Defying Gravity: Broadway Trends 1985 - 2022",
     "section": "",
-    "text": "This animated graph shows ticket price and theatre capacity filled for every Broadway show 1985-2022. (“Percentage of theatre capacity filled” is the percentage of seats taken from the total seats available in a theatre)\n\n\n\n\n\n\n\nAll code for this project can be found here."
+    "text": "This animated graph shows ticket price and theatre capacity filled for every Broadway show 1985-2022. (“Capacity filled” is the percentage of seats taken from the total seats available in a theatre)\nAll code for this project can be found here."
   },
   {
     "objectID": "sources.html",
@@ -46,6 +53,6 @@
     "href": "overall_broadway_trends.html",
     "title": "Overall",
     "section": "",
-    "text": "As you can see, both ticket prices and the percent of seats filled have been going up, but people aren’t filling up theatres because it costs more to attend shows— Broadway’s just gotten more popular over the years and prices have gotten higher because demand is high and people are willing to pay."
+    "text": "As you can see, both ticket prices and the percent of seats filled have been going up, but people aren’t filling up theatres because it costs more to attend shows— Broadway’s just gotten more popular over the years and prices have gotten higher because demand is high and people are willing to pay more to see shows."
   }
 ]
