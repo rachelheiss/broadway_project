@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "graphs_1.html#thing2",
-    "href": "graphs_1.html#thing2",
-    "title": "More Graphs",
-    "section": "thing2",
-    "text": "thing2\nhere’s a paragraph"
-  },
-  {
     "objectID": "top_broadway_trends.html",
     "href": "top_broadway_trends.html",
     "title": "Top Shows",
@@ -21,11 +14,11 @@
     "text": "Most Popular Shows (In Depth)\nThese two graphs paint a better picture of what the most popular shows are. Instead of being organized by how many years they ran weekly, they’re organized by the percentage of their total years on Broadway running every week, and coloured by how long they’ve been playing on Broadway in general. If you hover over a point, you can see the name of the show that that point represents.\nIn this graph, you can see that as the percentage of a show’s total time on Broadway running weekly gets higher, so does the theatre capacity filled, which means that more people go to those shows. This makes The Book of Mormon and Hamilton the top two shows, both with over 100% theatre capacity filled on average (standing room only), and around 70% of their total time on Broadway running weekly. This still makes The Phantom of the Opera really popluar, but below Wicked, The Lion King, and Aladin in theatre capacity filled.\n\n\n\n\n\n\n\n\nThis graph shows the average ticket prices for Broadway’s most popular shows. The Book of Mormon and Hamilton (which, as we know, are the most popular shows) are the most expensive, with Hamilton as a clear outlier at around $300 a ticket. As we reach shows with a higher percentage of time on Broadway running weekly, prices rise and peak at Hamilton and The Book of Mormon, then drop back down into 100 dollar territory at older shows that have spent most of their time as weekly shows."
   },
   {
-    "objectID": "overall_broadway_trends.html",
-    "href": "overall_broadway_trends.html",
-    "title": "Overall",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
     "section": "",
-    "text": "As you can see, both ticket prices and the percent of seats filled have been going up, but people aren’t filling up theatres because it costs more to attend shows— Broadway’s just gotten more popular over the years and prices have gotten higher because demand is high and people are willing to pay."
+    "text": "1 + 1\n\n[1] 2\n\n\nyo"
   },
   {
     "objectID": "index.html",
@@ -42,10 +35,17 @@
     "text": "playbill.com\n\nSpecifically this dataset on Kaggle\n\nLearning how to use gganimate:\n\nThis article on Datanovia\ngganimate.com\nThis article on RPubs\nThis article on “Towards Data Science”\nAnd this article on “Towards Data Science”"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "graphs_1.html#thing2",
+    "href": "graphs_1.html#thing2",
+    "title": "More Graphs",
+    "section": "thing2",
+    "text": "thing2\nhere’s a paragraph"
+  },
+  {
+    "objectID": "overall_broadway_trends.html",
+    "href": "overall_broadway_trends.html",
+    "title": "Overall",
     "section": "",
-    "text": "1 + 1\n\n[1] 2"
+    "text": "As you can see, both ticket prices and the percent of seats filled have been going up, but people aren’t filling up theatres because it costs more to attend shows— Broadway’s just gotten more popular over the years and prices have gotten higher because demand is high and people are willing to pay."
   }
 ]
