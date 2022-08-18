@@ -17,3 +17,8 @@ This animated graph shows ticket price and theatre capacity filled for every Bro
 ---
 
 All code for this project can be found [here](https://github.com/rachelheiss/broadway_project). 
+
+```{r include=FALSE}
+1+1
+```
+
