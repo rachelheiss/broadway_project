@@ -13,12 +13,11 @@ obt_graph_1
 ```
 
 ----
+As you can see, both ticket prices and the percent of seats filled have been going up, but people aren't filling up theatres because it costs more to attend shows— Broadway's just gotten more popular over the years and prices have gotten higher because demand is high and people are willing to pay more to see shows.
+----
 
 ```{r, echo = FALSE, warning = FALSE, message = FALSE}
 obt_graph_2 <- read_rds("plot_pct_cap.rds") 
 obt_graph_2 
 ```
 
-----
-
-As you can see, both ticket prices and the percent of seats filled have been going up, but people aren't filling up theatres because it costs more to attend shows— Broadway's just gotten more popular over the years and prices have gotten higher because demand is high and people are willing to pay. 

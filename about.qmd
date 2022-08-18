@@ -2,10 +2,14 @@
 title: "About"
 ---
 
-About this site
+## About This Project
 
-```{r}
-1 + 1
-```
+Hello there! My name is **Rachel Heiss**, and I’m a home-schooled sophomore in high school. I made this as the final project for [Kane’s Free High School Data Science Bootcamp](https://bootcamp.davidkane.info), which was an intensive and very helpful course. I learned everything I needed to know for this project in 3 weeks and then took about a week to make it. I took a while brainstorming what to do for this project and bounced between a few different options, but since I've always loved musicals and plays I decided to look at Broadway ticket prices and the fullness of theatres over a 37-year period to see how Broadway has changed from 1985 to present-day.  
 
-now it works
+## My Info
+
+* **GitHub:** [rachelheiss](https://github.com/rachelheiss)
+  * All code for this project [here](https://github.com/rachelheiss/broadway_project)
+* **Email:** rachelheiss@gmail.com
+
+* **Personal Website:** [rachelheiss.me](https://www.rachelheiss.me/) (work in progress)

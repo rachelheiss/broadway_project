@@ -14,8 +14,6 @@ tbt_graph_1 <- read_rds("plot_top_shows.rds")
 tbt_graph_1 
 ```
 
----- 
-
 ## Most Popular Shows (In Depth)
 
 These two graphs paint a better picture of what the most popular shows are. Instead of being organized by how many years they ran weekly, they're organized by the percentage of their total years on Broadway running every week, and coloured by how long they've been playing on Broadway in general. If you hover over a point, you can see the name of the show that that point represents. 
@@ -40,6 +38,4 @@ This graph shows the average ticket prices for Broadway's most popular shows. *T
 tbt_graph_2 <- read_rds("plot_avg_top_shows_tickets_graph.rds")
 tbt_graph_2
 ```
-
-----
 

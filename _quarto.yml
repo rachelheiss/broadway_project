@@ -8,12 +8,19 @@ execute:
   freeze: auto
 
 website:
-  title: "broadway_project"
+  title: "Broadway Project"
   navbar:
     left:
       - href: index.qmd
         text: Home
+      - href: overall_broadway_trends.qmd
+        text: Overall
+      - href: top_broadway_trends.qmd
+        text: Top Shows
       - about.qmd
+      - href: sources.qmd
+        text: Sources
+      
 
 format:
   html:
