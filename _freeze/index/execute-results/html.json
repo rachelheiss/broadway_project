@@ -2,9 +2,7 @@
   "hash": "1fced3c7e1a78bd2bce9b25d95830d36",
   "result": {
     "markdown": "---\ntitle: \"These Prices are Defying Gravity: Broadway Trends 1985 - 2022\"\n---\n\n\nHow has Broadway changed in the past 37 years? This data –made up of about 47, 000 observations– spans from 1985 to 2022 and was scraped from [playbill.com](https://www.playbill.com/). Ticket prices are adjusted for inflation, and then several graphs examine ticket prices and theater capacity over the years both overall and for the most popular shows. Today's Broadway tickets cost much more than they did in the 80s, but theaters are fuller despite the rising prices. \n\n----\n\n<div class=\"ratio ratio-16x9\">\n<video controls>\n<source src=\"animated_years_pct_cap_tickets.mp4\" type=\"video/mp4\">\n</video>\n</div>\n\n---\n\nThis animated graph shows ticket price and theatre capacity filled for every Broadway show 1985-2022.  (\"Capacity filled\" is the percentage of seats taken from the total seats available in a theatre)\n\nAll code for this project can be found [here](https://github.com/rachelheiss/broadway_project). \n\n\n\n",
-    "supporting": [
-      "index_files"
-    ],
+    "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],
