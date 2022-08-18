@@ -72,6 +72,6 @@ animated_years_pct_cap_tickets_mp4 <- animate(plot_years_pct_cap_tickets_animate
                                      width = 1200, 
                                      height = 720, 
                                      res = 150,
-                                     nframes = 720, 
+                                     nframes = 888, 
                                      fps = 24,
                                      renderer = av_renderer("animated_years_pct_cap_tickets.mp4"))

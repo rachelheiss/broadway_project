@@ -4,7 +4,7 @@ title: "Top Shows"
 
 ## Most Popular Shows
 
-This bar graph shows the most popular shows on Broadway by how many years a show ran every week. A lot of well known and popular shows are included in this, but this isn't the best way to break down popularity, as extremely long-running shows such as *The Phantom of the Opera* rank higher on the highest on the list because they've had more time to play weekly than other shows that are just as well known but have been on Broadway for a shorter amount of time. 
+This bar graph shows the most popular shows on Broadway by how many years a show ran every week. A lot of well known and popular shows are included in this, but this isn't the best way to break down popularity, as extremely long-running shows such as *The Phantom of the Opera* rank higher on the list because they've had more time to play weekly than other shows that are just as well known but have been on Broadway for a shorter amount of time. 
 
 ----
 
